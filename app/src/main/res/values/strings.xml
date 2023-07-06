@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mega Export</string>
+    <string name="enter_amount">Enter Amount Rs:</string>
+    <string name="txt1">Payment Gateway Demo</string>
+    <string name="pay">Pay Now</string>
+    <string name="txt2">Payment Status</string>
+    <string name="peoples" />
+</resources>
